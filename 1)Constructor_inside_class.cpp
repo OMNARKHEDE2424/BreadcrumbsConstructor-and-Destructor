@@ -27,8 +27,8 @@ int main()
 }
 
 /*
-Enter date: 5
-Enter month: 9
+Enter date: 8
+Enter month: 10
 Enter  Year: 24
 Today's Date is: 
 8/10/24
